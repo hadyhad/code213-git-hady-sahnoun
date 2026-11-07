@@ -1,0 +1,87 @@
+ TRAVAUX PRATIQUES - SEANCE 01
+FONDAMENTAUX DE GIT
+
+========================================
+1. DIFFERENCE ENTRE GIT ET GITHUB
+========================================
+
+Git est un système de gestion de versions distribué
+(Distributed Version Control System).
+
+Il permet aux développeurs de suivre les modifications
+du code source, de conserver l'historique d'un projet
+et de gérer différentes versions localement.
+
+GitHub est une plateforme en ligne qui permet
+d'héberger des dépôts Git.
+
+Elle facilite la collaboration entre développeurs,
+le partage de projets, la consultation du code
+et la gestion du développement logiciel.
+
+En résumé :
+
+Git permet de gérer les versions d'un projet,
+tandis que GitHub permet notamment d'héberger
+et de partager les dépôts Git.
+
+
+========================================
+2. LES QUATRE ZONES DE STOCKAGE DE GIT
+========================================
+
+Git utilise quatre zones importantes :
+
+1. Working Directory (Répertoire de travail) :
+
+C'est l'espace dans lequel le développeur crée,
+modifie et supprime les fichiers du projet.
+
+2. Staging Area (Zone de préparation) :
+
+C'est la zone dans laquelle le développeur sélectionne
+les modifications qu'il souhaite inclure dans
+son prochain commit.
+
+La commande git add permet d'ajouter des modifications
+à cette zone.
+
+3. Local Repository (Dépôt local) :
+
+C'est l'espace dans lequel Git conserve l'historique
+des modifications enregistrées sous forme de commits.
+
+La commande git commit permet de créer un commit.
+
+4. Remote Repository (Dépôt distant) :
+
+C'est un dépôt hébergé sur une plateforme distante,
+comme GitHub.
+
+La commande git push permet d'envoyer les commits
+locaux vers le dépôt distant.
+
+
+========================================
+3. IMPORTANCE DES PRE-MERGE GATES
+========================================
+
+Les Pre-Merge Gates sont des contrôles effectués
+avant de fusionner des modifications dans
+la branche principale d'un projet.
+
+Ils permettent de vérifier que le code respecte
+les exigences de qualité et de sécurité avant
+son intégration dans le projet principal.
+
+Exemples de contrôles :
+
+- Tests automatisés.
+- Vérification de la qualité du code.
+- Analyse des vulnérabilités de sécurité.
+- Revue du code (Code Review).
+
+Les Pre-Merge Gates permettent de détecter
+les problèmes plus tôt, de réduire les risques
+de sécurité et d'améliorer la fiabilité
+des logiciels.
