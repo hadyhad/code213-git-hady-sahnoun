@@ -1,0 +1,4 @@
+1. Analyse statique (SAST) : Scanner le code avec un outil automatique pour détecter les vulnérabilités et les erreurs de logique avant le commit.
+2. Gestion des secrets : Vérifier qu'aucune clé d'API, mot de passe ou identifiant n'est codé en dur (utiliser des variables d'environnement).
+3. Validation et assainissement des entrées : Nettoyer toutes les données reçues de l'utilisateur pour bloquer les failles comme les injections SQL et XSS.
+4. Revue de code et dépendances : Faire relire les modifications par un autre développeur et vérifier que les bibliothèques tierces n'ont pas de failles connues.
