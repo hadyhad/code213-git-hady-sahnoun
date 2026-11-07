@@ -1,4 +1,33 @@
-Une présentation de toi et ton parcours actuel.
 
-3 compétences de sécurité ou de Git que tu veux maîtriser pendant la formation Code213.
-Sauvegarde le fichier (Ctrl+S).
+Bonjour, je m'appelle Hady Sahnoun.
+
+Je suis actuellement étudiant dans le programme
+DevSecOps de Code213.
+
+Je m'intéresse particulièrement à la cybersécurité,
+aux réseaux informatiques, aux systèmes Linux
+et au développement logiciel.
+
+Je développe actuellement mes connaissances techniques
+et je construis des bases solides dans le domaine
+de l'informatique.
+
+Durant ma formation à Code213, je souhaite maîtriser
+les trois compétences techniques suivantes :
+
+1. Gestion des versions avec Git et GitHub :
+   Apprendre à gérer des dépôts, suivre les modifications
+   et organiser le travail sur des projets informatiques.
+
+2. Administration des systèmes Linux :
+   Maîtriser les commandes Linux, les permissions
+   des fichiers et l'administration des systèmes.
+
+3. Cybersécurité et développement sécurisé :
+   Apprendre à identifier les vulnérabilités,
+   protéger les informations sensibles et appliquer
+   les bonnes pratiques de développement sécurisé.
+
+Mon objectif est de devenir un professionnel compétent
+dans le domaine de la cybersécurité et de développer
+de solides compétences techniques.
