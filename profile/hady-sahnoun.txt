@@ -1,0 +1,4 @@
+Une présentation de toi et ton parcours actuel.
+
+3 compétences de sécurité ou de Git que tu veux maîtriser pendant la formation Code213.
+Sauvegarde le fichier (Ctrl+S).
